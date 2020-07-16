@@ -1,13 +1,13 @@
 # Hi, I'm Leo :octocat:
 
-Front-End Developer :robot:.
+Software Engineer/Front-end Developer based in Toronto. I love creating interesting UI/UX and solving complex coding problems. I love working within a team or heading off into the unknown and working on personal projects and ideas.
 
 ## About
 
-- 💻 I’m currently working ReactJS, NodeJS, Serverless and more...
-- 📚 I’m currently learning React Native
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about web performance, js and css tricks.
+- 💻. I’m currently working ReactJS, NodeJS, Serverless and more...
+- 📚. I’m currently learning React Native
+- 👯. I’m looking to collaborate on open source projects.
+- 💬  Ask me about web performance, js and css tricks.
 
 ---
 ### Made with 💜 by Leo
