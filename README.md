@@ -4,7 +4,7 @@ Software Engineer/Front-end Developer based in Toronto. I love creating interest
 
 ## About
 
-- 💻. I’m currently working ReactJS, NodeJS, Serverless and more...
+- 💻. I’m currently working ReactJS,NextJS, NodeJS, Serverless, Sanity.io and more...
 - 📚. I’m currently learning React Native
 - 👯. I’m looking to collaborate on open source projects.
 - 💬  Ask me about web performance, js and css tricks.
