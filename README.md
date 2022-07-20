@@ -9,6 +9,8 @@ Software Engineer/Front-end Developer based in Toronto. I love creating interest
 - 👯. I’m looking to collaborate on open source projects.
 - 💬  Ask me about web performance, js and css tricks.
 
+<img src="https://api.daily.dev/devcards/eca6da08f1874dc6859191ae43a1f968.png?r=e15" style="width: 300px"/>
+
 ---
 ### Made with 💜 by Leo
 
