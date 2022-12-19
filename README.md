@@ -5,12 +5,12 @@ Code
 ====
 
 This do that
-
-    const todoItems: Todo\[\] = \[
+<script>
+    const todoItems: Todo[] = [
     { id: 1, title: "Learn HTML", status: StatusTodo.Done, completedOn: new Date("2021-09-11") },
     { id: 2, title: "Learn TypeScript", status: StatusTodo.InProgress },
-    { id: 3, title: "Write the best app in the world", status: StatusTodo.Todo },
-\]
+    { id: 3, title: "Write the best app in the world", status: StatusTodo.Todo },]
+</script>
 
 
 
