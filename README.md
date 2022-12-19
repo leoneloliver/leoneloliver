@@ -1,19 +1,6 @@
 # Hi, I'm Leo :octocat:
 
 
-Code
-====
-
-This do that
-<script>
-    const todoItems: Todo[] = [
-    { id: 1, title: "Learn HTML", status: StatusTodo.Done, completedOn: new Date("2021-09-11") },
-    { id: 2, title: "Learn TypeScript", status: StatusTodo.InProgress },
-    { id: 3, title: "Write the best app in the world", status: StatusTodo.Todo },]
-</script>
-
-
-
 Software Engineer/Front-end Developer based in Toronto. I love creating interesting UI/UX and solving complex coding problems. I love working within a team or heading off into the unknown and working on personal projects and ideas.
 
 ## About
